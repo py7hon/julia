@@ -1,89 +1,49 @@
----
-layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-author: kuoa
-category: misc
-tags: book live life
-finished: true
----
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
-
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-
-This is a image.
-
-![panda]({{ site.url }}/assets/logo.png)
-
-
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
-
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Rouge
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-Non Rouge code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-
+# Indonesia Fansub List
+|    | A                                                                                                | B                                                                           | C               | D                                                                              | E                    | F                                                              |
+|----|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------|
+| 1  | LIST FANSUB INDO                                                                    |                                                                             |                 |                                                                                |                      |                                                                |
+| 3  | -                                                                                         | -                                                             | -   |                                                                                |                      |                                                                |
+| 5  | Nama Fansub                                                                                      | Link Fanspage                                                               | Nama Fansub     | Link Fanspage                                                                  | Nama Fansub          | Link Fanspage                                                  |
+| 7  | 98Subs                                                                                           | https://www.facebook.com/98Subs                                             | Ginsub          | https://www.facebook.com/Ginsubindonesia                                       | ODASubs              | https://www.facebook.com/odasubs                               |
+| 8  | AEFmanga                                                                                         | https://www.facebook.com/aefmanga                                           | Hana            | https://www.facebook.com/hanafansubs                                           | Oploverz             | https://www.facebook.com/oploverz.official                     |
+| 9  | Ai-Shiteru                                                                                       | https://www.facebook.com/AiShiteruOfficial                                  | Hatsukoi        | https://www.facebook.com/hatsukoi.indonesia                                    | OugiSubs             | https://www.facebook.com/OugiSubs                              |
+| 10 | AIASubs                                                                                          | https://www.facebook.com/Aiasubs                                            | Haruzora        | https://www.facebook.com/haruzorasub                                           | Pancake              | https://www.facebook.com/PancakeSubs                           |
+| 11 | AiseSubs                                                                                         | — — — —                                                                     | Hikasub         | https://www.facebook.com/Hikasub                                               | Pendekarsubs         | https://www.facebook.com/Pendekarsubs-v2-397115674059761       |
+| 12 | Akashiro 88                                                                                      | https://www.facebook.com/akashiro88                                         | Hinose          | https://www.facebook.com/Hikarinosekaii                                        | Pucuk                | https://www.facebook.com/pucuk.fansubs                         |
+| 13 | Akeno-Ai                                                                                         | https://www.facebook.com/akenoaisubs                                        | HJL-Subs        | https://www.facebook.com/hjlsubs                                               | Puella               | https://www.facebook.com/Puellasubs                            |
+| 14 | Alter                                                                                            | https://www.facebook.com/Altersubs/                                         | Hunter no Sekai | https://www.facebook.com/HunterSekai                                           | Quinime              | https://www.facebook.com/Quinime                               |
+| 15 | AmeAgare                                                                                         | https://www.facebook.com/ameagare                                           | Huntersubs      | https://www.facebook.com/huntersubs                                            | Samehadaku           | https://www.facebook.com/Samehadaku                            |
+| 16 | Anifansia                                                                                        | https://www.facebook.com/Anifansia                                          | IA-Hikari       | https://www.facebook.com/indoanimeforum/                                       | Sannin Konoha        | https://www.facebook.com/sanninkonohafansub/                   |
+| 17 | Anime Funindo                                                                                    | https://www.facebook.com/AFSubs                                             | IASubs          | https://www.facebook.com/IASubs                                                | SaoriKana            | https://www.facebook.com/Saorikana.blogspot.id                 |
+| 18 | Animegokil                                                                                       | https://www.facebook.com/Animegokil/                                        | Imaji           | https://facebook.com/FansubImaji/                                              | Shichi               | https://www.facebook.com/shichisub                             |
+| 19 | AniraSubs                                                                                        | https://www.facebook.com/AniraSubs/                                         | Imouto          | https://www.facebook.com/imoutofans                                            | Shiro Subs           | https://www.facebook.com/ShiroSubs                             |
+| 20 | Anirombatch                                                                                      | https://www.facebook.com/anirombatch                                        | Indis           | https://www.facebook.com/indissubsfp                                           | Silver Yasha         | https://www.facebook.com/SilverYashaFansub                     |
+| 21 | Anitoki                                                                                          | https://www.facebook.com/anitokiweb                                         | IsengSub        | https://www.facebook.com/IsengSub                                              | Sora Iro             | https://www.facebook.com/Sorairosubs                           |
+| 22 | Ankoku                                                                                           | https://www.facebook.com/AnkokuFansub                                       | Itsuwari        | https://www.facebook.com/itsuwarisub                                           | Souki-Hasshou        | https://www.facebook.com/Souki-Hasshou-Fanpage-216260605078498 |
+| 23 | Anti                                                                                             | https://www.facebook.com/antifs                                             | Jakesubs        | https://www.facebook.com/jakesubsindo                                          | Susah NgeSubs        | https://www.facebook.com/susah.ngesubs                         |
+| 24 | AshiSubs                                                                                         | https://www.facebook.com/AshiSubs                                           | Jalsubs         | https://www.facebook.com/FansubJalanan                                         | TerrificSubs         | https://www.facebook.com/terrificsubs                          |
+| 25 | ASI                                                                                              | https://www.facebook.com/AnimeSubIndonesia/                                 | Kazefuri        | https://www.facebook.com/kazefuri/                                             | TGW                  | https://www.facebook.com/thegrayworld                          |
+| 26 | AWSubs                                                                                           | https://www.facebook.com/wardhanime                                         | K.O Fansub      | https://www.facebook.com/kofansub                                              | TiramiSubs           | https://www.facebook.com/TiramiSubs                            |
+| 27 | Bentoosubs                                                                                       | https://www.facebook.com/Bentoosubs-623805700968343                         | KentutNeraka    | https://www.facebook.com/KentutNerakaFansubs                                   | Tonansub             | https://www.facebook.com/Tontonanime                           |
+| 28 | BKnime                                                                                           | https://www.facebook.com/BKnime                                             | Kokoro          | https://www.facebook.com/Kokoro-Fansub-Anime-Fansubs-Indonesia-457420401284612 | TTOD                 | https://www.facebook.com/TTODFansub/                           |
+| 29 | Caramel                                                                                          | https://www.facebook.com/caramelfansub                                      | Kopaja          | https://www.facebook.com/Kopajasubs                                            | Twentiez             | https://www.facebook.com/twentiezsubs                          |
+| 30 | CenatCenut                                                                                       | https://www.facebook.com/CenatCenutSub                                      | Kurai           | https://www.facebook.com/kuraifs                                               | UBW                  | https://www.facebook.com/unlimitedblurayworks/                 |
+| 31 | Chino                                                                                            | https://www.facebook.com/ChinoSubs                                          | Kuroyuri        | https://www.facebook.com/kuroyurisubs                                          | UchiMaki             | https://www.facebook.com/Abdul.UchiMaki.Dattebayou             |
+| 32 | Coffee                                                                                           | https://www.facebook.com/coffeedesuyo/                                      | Lokalsubs       | https://www.facebook.com/Lokalsubs                                             | USFK                 | https://www.facebook.com/NSFKIndo                              |
+| 33 | Conanweb                                                                                         | https://www.facebook.com/conan.web.indonesia/                               | LoliSekai       | https://www.facebook.com/lolisekai                                             | USW                  | https://www.facebook.com/Unlimited-Subs-Works-322443244623479  |
+| 34 | D-Animesubs                                                                                      | https://www.facebook.com/D-Animesubs-1589046631317129/                      | Lolisubs        | https://www.facebook.com/lolidesuyo                                            | Vedifi               | https://www.facebook.com/vedifisub                             |
+| 35 | DAlovers                                                                                         | https://www.facebook.com/Digimon-Adventure-Bahasa-Indonesia-155829774463370 | Lulusubs        | https://www.facebook.com/Lulusubs-no-Ecchi-241198082576890                     | Vxsub                | https://www.facebook.com/vxsub.indonesia                       |
+| 36 | Delsubs                                                                                          | https://www.facebook.com/delsubs                                            | Luminous        | https://www.facebook.com/LuminousFansub                                        | warung fansub        | https://www.facebook.com/Warungfansubs                         |
+| 37 | Durandal                                                                                         | https://www.facebook.com/durandalsubs                                       | Manga Neko      | https://www.facebook.com/MangaNekoTrans                                        | WibuSubs             | https://www.facebook.com/ani.enthusiast                        |
+| 38 | Eater-Team                                                                                       | https://www.facebook.com/eater.team                                         | Mangekyou       | https://www.facebook.com/mangekyanime                                          | Wire-Subs            | https://www.facebook.com/WireSubs                              |
+| 39 | EdogawaSubs                                                                                      | https://www.facebook.com/edogawasubscom/                                    | Melody          | https://www.facebook.com/MelodyFI                                              | Xros                 | https://www.facebook.com/XrosFansub                            |
+| 40 | Emission                                                                                         | https://www.facebook.com/emissionsubs                                       | Metro Platinum  | https://www.facebook.com/platinumworks/                                        | Yamisubs             | https://www.facebook.com/yamisubs                              |
+| 41 | ExaSubs                                                                                          | https://www.facebook.com/Exaindo                                            | Moesubs         | https://www.facebook.com/Moesubs                                               | Yasumi               | https://facebook.com/Yasumisubs/                               |
+| 42 | ExCalibur Desu                                                                                   | https://www.facebook.com/excaliburfansub                                    | N4O             | https://www.facebook.com/n4ofansub/                                            | Your Favorite Things | https://www.facebook.com/Your-Favorite-Things-1579527472073856 |
+| 43 | FiFansubs                                                                                        | https://www.facebook.com/FiFansubs                                          | Nekonime        | https://www.facebook.com/nekonimeindo                                          | YuHi                 | https://www.facebook.com/Yume-Hitomi-Fansub-478576478919234    |
+| 44 | FlashSubs-ID                                                                                     | https://www.facebook.com/FlashSubs.ID                                       | NekoPoi         | https://www.facebook.com/NekoPoiOfficial/                                      | Yuki                 | https://www.facebook.com/Yukisubs                              |
+| 45 | FreeFansub                                                                                       | https://www.facebook.com/Freefansub                                         | NeoSubs         | https://www.facebook.com/NeoSubs                                               | YuukiFS              | https://www.facebook.com/yuukifansubsid                        |
+| 46 | Gantz ID                                                                                         | https://www.facebook.com/Gantz-ID-1947606698810614/                         | Nge-Sub         | https://facebook.com/NgeSub/                                                   | ZenSub               | https://www.facebook.com/ZenSub                                |
+| 47 | GarisMiring-an8                                                                                  | https://www.facebook.com/garismiringan8                                     | Ngepetsub       | https://www.facebook.com/NgepetSub                                             |                      |                                                                |
+| 48 | GarpuTaman                                                                                       | https://www.facebook.com/GarpuTamanSubs/                                    | NinkiSubs       | https://www.facebook.com/ninkisubs/                                            |                      |                                                                |
+| 49 |                                                                                                  |                                                                             |                 |                                                                                |                      |                                                                |
